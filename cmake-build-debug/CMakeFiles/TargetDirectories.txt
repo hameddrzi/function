@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/udemy/1-universita/lezioni 6/function_bool/cmake-build-debug/CMakeFiles/function_bool.dir
+C:/Users/ASUS/Desktop/udemy/1-universita/lezioni 6/function_bool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/udemy/1-universita/lezioni 6/function_bool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
