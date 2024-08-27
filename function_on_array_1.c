@@ -8,7 +8,5 @@ int conta_univoci();
 int stampa_elementi();
 
 int main(){
-    size_t a,b;
-    for
 
 }
