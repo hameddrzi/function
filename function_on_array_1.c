@@ -2,9 +2,13 @@
 
 
 int leggi_array();
+
 int conta_univoci();
+
 int stampa_elementi();
 
 int main(){
-    printf("ciao");
+    size_t a,b;
+    for
+
 }
