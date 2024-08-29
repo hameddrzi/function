@@ -2,5 +2,5 @@
 #include <stdbool.h>
 
 int main(){
-    printf("this is palindrome");
+    printf("");
 }
