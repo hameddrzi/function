@@ -7,6 +7,7 @@ int main(){
 
     scanf("%50s", str);
     size_t len = strlen(str);
+
     bool palindome = true;
     for (size_t i = 0; i <len /2 && palindome ; ++i) {
         if(str[i] != str[len - i - 1])
