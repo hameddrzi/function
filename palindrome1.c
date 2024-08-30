@@ -3,20 +3,15 @@
 #include <string.h>
 #define MAX 50
 int main(){
-    char a[MAX+1];
-    char b[MAX+1];
-    b[MAX+1] = a[MAX+1];
+    char str[MAX+1];
 
-    bool palindrome = true;
-
-    scanf("%50s", a);
-    for (size_t i = 0; i = MAX; ++i) {
-        for (size_t j = 0; j = MAX; --j) {
-            if(!(a[i])== b[j-1])
-                palindrome = false;
-        }
-
+    scanf("%50s", str);
+    size_t len = strlen(str);
+    bool palindome = true;
+    for (size_t i = 0; i <len /2 && palindome ; ++i) {
+        if(str[i] != str[len - i - 1])
+            palindome = false;
     }
-    printf("palindrome", palindrome);
 
+       if(palindome ==1 )printf("palindrome");
 }
