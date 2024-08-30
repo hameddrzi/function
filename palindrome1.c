@@ -13,5 +13,6 @@ int main(){
             palindome = false;
     }
 
-       if(palindome ==1 )printf("palindrome");
+       if(palindome)printf("palindroma");
+       else printf("NOT palindroma");
 }
